@@ -1,0 +1,15 @@
+
+ TweetsOfWaste README
+
+ This is the software to run a waste bin that is connected to the interwebs.
+
+ Short description:
+ The project consists of a waste bin, an Arduino, a WiFly shield and a C328 serial camera.
+ All thrown together gives you a waste bin that tweets a picture over WiFi, everytime
+ you open it.
+
+ Authors:
+ Martin Poggenclaas http://iamnifty.com
+ Alex Weber http://tinkerlog.com
+
+ 
